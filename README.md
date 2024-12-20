@@ -7,7 +7,7 @@ Image Segmentation using Edge Detection Techniques (Sobel, Prewitt) with Noise A
 ![App Screenshot](addimage.png)
 ### ADD & Remove Noise 
 ![App Screenshot](noiseimage1.png)
-![App Screenshot](noiseimage11.png)
+![App Screenshot](moiseimage11.png)
 ![App Screenshot](noiseimage2.png)
 ### Histogram Equalization
 ![App Screenshot](histoimage.png)
